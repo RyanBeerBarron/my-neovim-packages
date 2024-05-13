@@ -1,2 +1,2 @@
-# my-neovim-packages
-This repository contains submodules of neovim packages I use. Feel free to import it to try my config
+# Archived
+This repository is archived. For my neovim config check https://github.com/ryanbeerbarron/neovim-config
